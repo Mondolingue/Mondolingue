@@ -63,6 +63,11 @@ p {
     top: 0;
   }
 
+#servizio h3 {
+  font-size:1em;
+}
+
+
 .nav-wrapper {
   padding: 0 10px;
   }
